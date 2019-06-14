@@ -15,7 +15,7 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/about": [
+    "/article": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
