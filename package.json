@@ -1,0 +1,28 @@
+{
+  "name": "Next.js-try-out",
+  "version": "1.0.0",
+  "description": "Trying out SSR with next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nauberinho/Next.js-try-out.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nauberinho/Next.js-try-out/issues"
+  },
+  "homepage": "https://github.com/nauberinho/Next.js-try-out#readme",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
